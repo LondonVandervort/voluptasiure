@@ -1,0 +1,32 @@
+{
+  "name": "voluptasiure",
+  "version": "1.13.1",
+  "description": "Parse the markdown and returns a string",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "LeoWelch",
+  "keywords": [
+    "expedita",
+    "text",
+    "rem"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LondonVandervort/voluptasiure.git"
+  },
+  "dependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "culpaid": "^1.0.0",
+    "rembeatae": "^1.0.0",
+    "undererum": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "should": "^13.2.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.2"
+  },
+  "license": "MIT"
+}
